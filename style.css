@@ -1,0 +1,74 @@
+.class1{
+        text-align: left;
+        width: 700px;
+        margin: auto;
+        font-size: large;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        
+}
+.Author{
+    font-size: 15px;
+    font-style: italic;
+    font-weight: bold;
+    margin: auto;
+    width: 800px;
+}
+.Date{
+    font-size: 15px;
+    font-style: italic;
+    font-weight: bold;
+    margin: auto;
+    width: 800px;
+}
+
+span{
+    color: gray;
+    font-size: small;
+}
+
+.text1
+{
+    font-size: large; 
+    font-weight: bold;
+    color: black;
+}
+
+.text2
+{
+    font-size: large; 
+    color: black;
+}
+
+.bullets{
+    font-weight: 900;
+    color: black;
+    font-size: large;
+    text-align: left;
+
+}
+
+a{
+    font-weight: bold;
+}
+.class3
+{
+    font-size: 35px;
+}
+
+/* visited link */
+a:visited {
+    color: black;
+    font-weight: bold;
+}
+
+  /* mouse over link */
+a:hover {
+    color:black;
+    font-weight: bold;
+}
+
+  /* selected link */
+a:active {
+    color:black;
+    font-weight: bold;
+}
